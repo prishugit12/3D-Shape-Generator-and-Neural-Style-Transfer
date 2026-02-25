@@ -3,4 +3,4 @@ This project explores neural implicit representations for real-time 360° surfac
 # Neural-Style-Transfer
 A clean implementation of the classic Gatys et al. (CVPR 2016) neural style transfer approach, with an interactive interface for real-time experimentation. This project separates content from style by matching feature statistics between layers of a pre-trained VGG19 network.
 ## 🎥 Neural Style Transfer Demo
-https://github.com/prishugit12/3D-Shape-Generator-and-Neural-Style-Transfer/blob/main/Neural%20Style%20Transfer-%20Demo%20Video.mp4
+https://github.com/prishugit12/3D-Shape-Generator-and-Neural-Style-Transfer/releases/tag/v1.0-demo
